@@ -2,11 +2,11 @@
   "packages": [
     {
       "applicationId": "arrowescape",
-      "versionCode": 15
+      "versionCode": 1
     },
     {
       "applicationId": "test",
-      "versionCode": 15
+      "versionCode": 1
     }
   ]
 }

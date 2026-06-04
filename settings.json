@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "applicationId": "wormescape",
-      "versionCode": 1
+      "applicationId": "arrowescape",
+      "versionCode": 16
     },
     {
-      "applicationId": "test",
-      "versionCode": 1
+      "applicationId": "solitairecard",
+      "versionCode": 12
     }
   ]
 }

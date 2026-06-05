@@ -2,11 +2,11 @@
   "packages": [
     {
       "applicationId": "arrowescape",
-      "versionCode": 16
+      "versionCode": 1
     },
     {
       "applicationId": "solitairecard",
-      "versionCode": 12
+      "versionCode": 1
     }
   ]
 }

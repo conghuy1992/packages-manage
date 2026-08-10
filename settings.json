@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "applicationId": "shingoki",
-      "versionCode": 1
+      "applicationId": "starbattle",
+      "versionCode": 2
     },
     {
       "applicationId": "solitairecard",
